@@ -1,5 +1,11 @@
+[![](https://visitcount.itsvg.in/api?id=jadfost&icon=6&color=0)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
-🔭 I'm currently immersed in software development projects for various businesses, with a primary focus on automating diverse tasks. My main goal is to optimize processes through technological solutions, bringing efficiency and enhancing productivity.<br><br>👯 I'm looking to collaborate with dynamic development teams and ambitious projects where I can apply my skills and knowledge. I thrive in collaborative environments that prioritize innovation and technical excellence.<br><br>🌱 Always seeking improvement, I am currently learning cloud technologies to broaden my skill set and stay abreast of the latest trends in software development. I firmly believe in the importance of staying updated to deliver optimal and cutting-edge solutions.<br><br>💬 Ask me about anything related to software development, process automation, or cloud technologies. I am committed to continuous learning and constant improvement.<br><br>⚡ Fun fact: I enjoy tackling technical challenges and solving complex problems. I see every obstacle as an opportunity to learn and grow as a professional in the field of software development.
+🔭 I'm currently immersed in software development projects for various businesses, with a primary focus on automating diverse tasks. My main goal is to optimize processes through technological solutions, bringing efficiency and enhancing productivity.<br><br>
+👯 I'm looking to collaborate with dynamic development teams and ambitious projects where I can apply my skills and knowledge. I thrive in collaborative environments that prioritize innovation and technical excellence.<br><br>
+🌱 Always seeking improvement, I am currently learning cloud technologies to broaden my skill set and stay abreast of the latest trends in software development. I firmly believe in the importance of staying updated to deliver optimal and cutting-edge solutions.<br><br>
+💬 Ask me about anything related to software development, process automation, or cloud technologies. I am committed to continuous learning and constant improvement.<br><br>
+⚡ Fun fact: I enjoy tackling technical challenges and solving complex problems. I see every obstacle as an opportunity to learn and grow as a professional in the field of software development.
 
 
 ## 🌐 Socials:
@@ -16,6 +22,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=jadfost&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jadfost&icon=6&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
