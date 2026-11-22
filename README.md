@@ -1,6 +1,6 @@
 [![](https://visitcount.itsvg.in/api?id=jadfost&icon=6&color=0)](https://visitcount.itsvg.in)
 
-# 💫 About Me:
+# About Me:
 Cloud computing is no longer just about infrastructure—it's about creating intelligent platforms that enable organizations to innovate faster.
  
 I help companies design enterprise-grade Cloud, Data, and AI architectures that are secure, scalable, and built for long-term growth.
@@ -10,14 +10,23 @@ With experience across AWS and Microsoft Azure, I have led the architecture and 
 My expertise covers the complete technology lifecycle—from solution architecture and cloud governance to DevSecOps, data engineering, artificial intelligence, and platform modernization.
  
 Core areas of expertise: 
+
 🔹 Cloud & AI Architecture
+
 🔹 Enterprise Data Platforms
+
 🔹 Data Engineering & Lakehouse Architectures
+
 🔹 Microsoft Fabric & Databricks
+
 🔹 AWS & Azure Solutions
+
 🔹 Machine Learning Integration
+
 🔹 Kubernetes & Cloud-Native Applications
+
 🔹 DevSecOps & Cloud Governance
+
 🔹 Infrastructure as Code (IaC)
  
 I believe the best architectures are those that balance innovation, simplicity, security, and measurable business impact.
