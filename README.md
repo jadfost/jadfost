@@ -1,11 +1,28 @@
 [![](https://visitcount.itsvg.in/api?id=jadfost&icon=6&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-I'm currently immersed in software development projects for various businesses, with a primary focus on automating diverse tasks. My main goal is to optimize processes through technological solutions, bringing efficiency and enhancing productivity.<br><br>
-I'm looking to collaborate with dynamic development teams and ambitious projects where I can apply my skills and knowledge. I thrive in collaborative environments that prioritize innovation and technical excellence.<br><br>
-Always seeking improvement, I am currently learning cloud technologies to broaden my skill set and stay abreast of the latest trends in software development. I firmly believe in the importance of staying updated to deliver optimal and cutting-edge solutions.<br><br>
-Ask me about anything related to software development, process automation, or cloud technologies. I am committed to continuous learning and constant improvement.<br><br>
-Fun fact: I enjoy tackling technical challenges and solving complex problems. I see every obstacle as an opportunity to learn and grow as a professional in the field of software development.
+Cloud computing is no longer just about infrastructure—it's about creating intelligent platforms that enable organizations to innovate faster.
+ 
+I help companies design enterprise-grade Cloud, Data, and AI architectures that are secure, scalable, and built for long-term growth.
+ 
+With experience across AWS and Microsoft Azure, I have led the architecture and implementation of modern data platforms, cloud-native solutions, AI-enabled applications, and large-scale data engineering initiatives for enterprise environments.
+ 
+My expertise covers the complete technology lifecycle—from solution architecture and cloud governance to DevSecOps, data engineering, artificial intelligence, and platform modernization.
+ 
+Core areas of expertise: 
+🔹 Cloud & AI Architecture
+🔹 Enterprise Data Platforms
+🔹 Data Engineering & Lakehouse Architectures
+🔹 Microsoft Fabric & Databricks
+🔹 AWS & Azure Solutions
+🔹 Machine Learning Integration
+🔹 Kubernetes & Cloud-Native Applications
+🔹 DevSecOps & Cloud Governance
+🔹 Infrastructure as Code (IaC)
+ 
+I believe the best architectures are those that balance innovation, simplicity, security, and measurable business impact.
+
+Today, I continue helping organizations modernize their technology landscape while pursuing a Master's Degree in Artificial Intelligence and continuously expanding my expertise through advanced AWS Professional & Specialty and Microsoft Expert certifications.
 
 
 ## 🌐 Socials:
